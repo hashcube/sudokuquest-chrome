@@ -1,0 +1,14 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://apps.facebook.com/sudokuquest/?ref=chrome"
+      },
+      "urls": [ "http://apps.facebook.com/sudokuquest/?ref=chrome" ]
+   },
+   "icons": {
+      "128": "sudokuquest_icon.png"
+   },
+   "name": "SudokuQuest",
+   "version": "1.0",
+   "manifest_version": 2
+}
